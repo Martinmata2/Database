@@ -1,0 +1,17 @@
+{
+	"name" : "soisi/database",
+	"description" : "Simple interaccion con mysql",
+	"type" : "project",
+	"license" : "MIT",
+	"autoload" : {
+		"psr-4" : {
+			"Soisi\\Database\\" : "src/"
+		}
+	},
+	"authors" : [{
+			"name" : "martinmata2",
+			"email" : "martinmata2@msn.com"
+		}
+	],
+	"minimum-stability" : "dev"
+}
