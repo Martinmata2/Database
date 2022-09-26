@@ -16,7 +16,7 @@ class ComposerStaticInitf378e3b4d0819c5d7d25c10a402581bf
     public static $prefixDirsPsr4 = array (
         'Soisi\\Database\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/MySql',
         ),
     );
 
